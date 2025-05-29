@@ -1,4 +1,4 @@
-# ✈️ Booking Prediction Model
+# British Airways Forage Job Sim Project
 
 This project uses a machine learning approach to **predict whether a customer will make a flight booking**, based on various travel-related features. It includes full data exploration, feature engineering, model training, evaluation, and business-level insights.
 
